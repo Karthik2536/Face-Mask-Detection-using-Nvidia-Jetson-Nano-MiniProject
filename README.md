@@ -115,7 +115,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 👨‍💻 Contributors
 
-* **T. Vamsi ** – Project Lead & Developer
+* * Addaginta .Karthik ** – Project Lead & Developer
 * **Dr.MGR University, Chennai** – Guidance & Support
 
 ---
